@@ -1,0 +1,4 @@
+baseURL = 'https://tianmaycry9.github.io/'
+languageCode = 'en-us'
+title = 'Tianxiang Xiao'
+theme = 'congo'

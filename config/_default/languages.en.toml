@@ -1,0 +1,15 @@
+languageName = "English"
+weight = 1
+title = "Tianxiang Xiao"
+
+[author]
+  name = "Tianxiang Xiao"
+
+[params.author]
+  name = "Tianxiang Xiao"
+  headline = "Kunming Institute of Zoology, Chinese Academy of Sciences"
+  image = "images/avatar.jpg"
+  links = [
+    { github = "https://github.com/TianMayCry9" },
+    { email = "mailto:xiaotianxiang251@mails.ucas.ac.cn" }
+  ]
